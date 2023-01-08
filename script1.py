@@ -1,8 +1,5 @@
 import os
 
-os.system('apt upgrade')
-os.system('apt update')
-os.system('apt install mc')
-os.system('apt install koadic')
-os.system('apt install powershell-empire')
-os.system('apt install tmate')
+for a in range(2000)
+  print('TSETSEMEBYA HACKER, VAR LOSHARA')
+
